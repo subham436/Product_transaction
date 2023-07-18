@@ -5,10 +5,10 @@ This Node.js app fetches data from multiple APIs, performs statistical analysis,
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/nodejs-app.git
+   git clone https://github.com/subham436/Product_transaction.git
 
 2. Install dependencies:
-cd nodejs-app
+cd Product_transaction
 npm install
 
 
